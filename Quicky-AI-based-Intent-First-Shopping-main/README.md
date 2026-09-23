@@ -708,8 +708,8 @@ This project is created for **HackOn 6.0 2026**.
 
 ## Contact & Support
 
-- **GitHub Issues**: [Report bugs or request features](https://github.com/Sattwik999/HackOn_AmazonQuicky/issues)
-- **Email**: [sattwiksarkar18@gmail.com]
+- **GitHub Issues**: [Report bugs or request features](https://github.com/anishasaha25/HackOn_AmazonQuicky/issues)
+- **Email**: [anishasaha2005@gmail.com]
 - **Project Demo**: Not Available
 
 ---
